@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "MATZ (HONGJOONG, SEONGHWA)",
+  "base_artist": "ATEEZ",
+  "createdAt": "2026-02-28T05:58:33.671342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MATZ (HONGJOONG, SEONGHWA)",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/01_MATZ_(HONGJOONG,_SEONGHWA)_ATEEZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MATZ (HONGJOONG, SEONGHWA)",
+      "artist": "ATEEZ (에이티즈)/Hongjoong (홍중)/Seonghwa (성화)",
+      "has_synced": true,
+      "path": "select/02_MATZ_(HONGJOONG,_SEONGHWA)_ATEEZ_(에이티즈)_Hongjoong_(홍중)_Seonghwa_(성화).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MATZ (HONGJOONG, SEONGHWA)",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/pl_01_MATZ_(HONGJOONG,_SEONGHWA)_ATEEZ.txt"
+    }
+  ]
+}
